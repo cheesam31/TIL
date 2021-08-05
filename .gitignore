@@ -59,8 +59,23 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# inferon lsp
+# infleran linux_system_programming
+inflearn/linux_system_programming/00.introduction/*
+!inflearn/linux_system_programming/00.introduction/*.c
+!inflearn/linux_system_programming/00.introduction/Makefile
 
-inflearn/linux_system_programming/*
-!inflearn/linux_system_programming/*.c
-!inflearn/linux_system_programming/*Makefile
+inflearn/linux_system_programming/01.file_basic/*
+!inflearn/linux_system_programming/01.file_basic/*.c
+!inflearn/linux_system_programming/01.file_basic/Makefile
+
+inflearn/linux_system_programming/02.file_lowlevel/*
+!inflearn/linux_system_programming/02.file_lowleve/*.c
+!inflearn/linux_system_programming/02.file_lowleve/Makefile
+
+inflearn/linux_system_programming/03.file_advanced/*
+!inflearn/linux_system_programming/03.file_advanced/*.c
+!inflearn/linux_system_programming/03.file_advanced/Makefile
+
+inflearn/linux_system_programming/04.process/*
+!inflearn/linux_system_programming/04.process/*.c
+!inflearn/linux_system_programming/04.process/Makefile

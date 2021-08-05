@@ -79,3 +79,5 @@ inflearn/linux_system_programming/03.file_advanced/*
 inflearn/linux_system_programming/04.process/*
 !inflearn/linux_system_programming/04.process/*.c
 !inflearn/linux_system_programming/04.process/Makefile
+
+#test

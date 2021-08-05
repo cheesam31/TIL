@@ -68,9 +68,9 @@ inflearn/linux_system_programming/01.file_basic/*
 !inflearn/linux_system_programming/01.file_basic/*.c
 !inflearn/linux_system_programming/01.file_basic/Makefile
 
-#inflearn/linux_system_programming/02.file_lowlevel/*
-#!inflearn/linux_system_programming/02.file_lowleve/*.c
-#!inflearn/linux_system_programming/02.file_lowleve/Makefile
+inflearn/linux_system_programming/02.file_lowlevel/*
+!inflearn/linux_system_programming/02.file_lowleve/*.c
+!inflearn/linux_system_programming/02.file_lowleve/Makefile
 
 inflearn/linux_system_programming/03.file_advanced/*
 !inflearn/linux_system_programming/03.file_advanced/*.c

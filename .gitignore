@@ -61,5 +61,6 @@ $RECYCLE.BIN/
 
 # inferon lsp
 
+inflearn/linux_system_programming/*
 !inflearn/linux_system_programming/*.c
 !inflearn/linux_system_programming/*Makefile

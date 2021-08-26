@@ -80,3 +80,7 @@ inflearn/linux_system_programming/04.process/*
 !inflearn/linux_system_programming/04.process/*.c
 !inflearn/linux_system_programming/04.process/Makefile
 
+
+inflearn/linux_system_programming/05.signal/*
+!inflearn/linux_system_programming/05.signal/*.c
+!inflearn/linux_system_programming/05.signal/Makefile

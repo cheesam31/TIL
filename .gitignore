@@ -84,3 +84,8 @@ inflearn/linux_system_programming/04.process/*
 inflearn/linux_system_programming/05.signal/*
 !inflearn/linux_system_programming/05.signal/*.c
 !inflearn/linux_system_programming/05.signal/Makefile
+
+# infleran linux_IPC_programming
+inflearn/linux_IPC_programming/*
+!inflearn/linux_IPC_programming/*.c
+!inflearn/linux_IPC_programming/Makefile
